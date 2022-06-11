@@ -1,0 +1,37 @@
+[I 21:49:28.641 LabApp] Copying /home/ubuntu/.ipython/profile_default/ipython_nbconvert_config.py -> /home/ubuntu/.jupyter/jupyter_nbconvert_config.py
+[I 21:49:28.648 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 21:49:29.427 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 21:49:29.444 LabApp] Loading IPython parallel extension
+[I 21:49:31.020 LabApp] jupyter_tensorboard extension loaded.
+[I 21:49:31.024 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 21:49:31.024 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[W 21:49:31.027 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 21:49:31.029 LabApp] JupyterLab extension loaded from /usr/local/anaconda/lib/python3.6/site-packages/jupyterlab
+[I 21:49:31.029 LabApp] JupyterLab application directory is /usr/local/anaconda/share/jupyter/lab
+[I 21:49:31.030 LabApp] Serving notebooks from local directory: /
+[I 21:49:31.030 LabApp] The Jupyter Notebook is running at:
+[I 21:49:31.030 LabApp] http://(domino-run-5d951b624cedfd0008d5d9c7 or 127.0.0.1):8888/
+[I 21:49:31.030 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:49:31.496 LabApp] 302 GET / (10.0.242.198) 0.69ms
+[I 21:49:34.038 LabApp] 302 GET / (10.0.241.53) 0.53ms
+[I 21:49:34.044 LabApp] 302 GET / (10.0.241.53) 0.48ms
+[I 21:49:34.234 LabApp] 302 GET / (10.0.241.53) 0.58ms
+[W 21:49:37.809 LabApp] 404 GET /lab/api/workspaces/lab?1570052977561 (10.0.242.198): Workspace 'lab' ('lab-a511') not found
+[W 21:49:37.809 LabApp] Workspace 'lab' ('lab-a511') not found
+[W 21:49:37.809 LabApp] 404 GET /lab/api/workspaces/lab?1570052977561 (10.0.242.198) 127.81ms referer=https://5d951b624cedfd0008d5d9c7-workspace.try.dominodatalab.com/lab/tree/mnt?
+[I 21:49:37.817 LabApp] Node v8.10.0
+    
+[I 21:49:37.820 LabApp] Build is up to date
+[I 21:49:45.442 LabApp] Creating new notebook in /mnt/code
+[I 21:49:45.459 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[I 21:49:46.148 LabApp] Kernel started: 747b4346-f2e6-4260-b25e-1d5e6ba41d90
+[I 21:49:47.823 LabApp] Adapting to protocol v5.1 for kernel 747b4346-f2e6-4260-b25e-1d5e6ba41d90
+[I 21:49:47.923 LabApp] Starting buffering for 747b4346-f2e6-4260-b25e-1d5e6ba41d90:83584d34-5d96-4fb9-b065-e592039928be
+[I 21:49:49.759 LabApp] Adapting to protocol v5.1 for kernel 747b4346-f2e6-4260-b25e-1d5e6ba41d90
+[I 21:49:51.706 LabApp] Adapting to protocol v5.1 for kernel 747b4346-f2e6-4260-b25e-1d5e6ba41d90
+[I 21:51:47.231 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 21:53:47.676 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 21:55:48.925 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 21:57:49.254 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 21:59:49.507 LabApp] Saving file at /mnt/code/Untitled.ipynb
+[I 22:01:50.923 LabApp] Saving file at /mnt/code/anomaly_detection_intro.ipynb
